@@ -1,0 +1,6 @@
+// swap 2 numbers 
+int a,b,temp;
+temp=a;
+a=b;
+b=temp;
+print a,b;
